@@ -1,0 +1,33 @@
+{
+    "en":{
+        "title":"Frontend, Backend and everything in between",
+        "start":"Home",
+        "projects":"Projects",
+        "mProj":"Main Projects",
+        "sProj":"All my (destacable) projects",
+        "skills":"Skills",
+        "contact":"Contact",
+        "presentation":"I'm Verónica, a passionate girl who likes computers and IT. I graduated as an IT Technician from Instituto El Obraje. My hobbies are playing instruments (bass, guitar) and videogames",
+        "litTitle":"Title",
+        "desc":"Description",
+        "tech":"Tech Stack",
+        "repo":"Click to see the repository"
+    },
+    "es":{
+        "title":"Frontend, Backend y todo lo del medio",
+        "start":"Inicio",
+        "projects":"Proyectos",
+        "mProj":"Proyectos Principales",
+        "sProj":"Todos mis proyectos (destacables)",
+        "skills":"Tecnologías",
+        "contact":"Contacto",
+        "presentation":"Soy Verónica, una chica apasionada que le encantan las computadoras y la informática. Me recibí como Técnica en Informática Profesional y Personal del Instituto El Obraje. Mis hobbies son tocar instrumentos (bajo, guitarra) y jugar videojuegos!",
+        "litTitle":"Título",
+        "desc":"Descripción",
+        "tech":"Stack",
+        "repo":"Click para ver el repositorio"
+        
+    }
+
+
+}

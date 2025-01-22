@@ -1,0 +1,60 @@
+{
+  "es": [
+    {
+      "title": "Serendipia (FullStack)",
+      "desc": "Una app para tener conversaciones anónimas con extraños de forma segura, en Serendipia, nadie sabe quién eres. Los usuarios, grupos y mensajes son borrados automáticamente después de un cierto periodo de tiempo.",
+      "tech": ["react_native","node.js", "Express", "TailwindCSS", "MongoDB"],
+      "img": "https://raw.githubusercontent.com/tia-porota/serendipia/refs/heads/main/screenshots/seren1.png",
+      "link": "https://github.com/tia-porota/serendipia"
+    },{
+      "title": "MeetHub API",
+      "desc": "Esta API es usada en nuestro proyecto MeetHub para NoCountry, CRUD completo + validaciones",
+      "tech": ["Node.JS", "Express","MongoDB"],
+      "img": "https://i.ibb.co/JkmPSWV/image-1.png",
+      "link": "https://github.com/FabianVladmir/Project-NoCountry-Back"
+    },
+    {
+      "title": "Veredex",
+      "desc": "Una Clonedex muy genial, presentando los 'pokemon cries' a un solo click de distancia. Scrollea por todos los pokemon de la Gen 1, filtra por nombre y tipo!",
+      "tech": ["React", "TailwindCSS"],
+      "img": "https://i.ibb.co/kh15XNr/Screenshot-20250122-172402.png",
+      "link": "https://github.com/tia-porota/veredex"
+    },
+    
+    {
+      "title": "Misión Skysense - CodeChemSat",
+      "desc": "Hecho para el concurso CANSAT 2023. Arduino Sender + Receiver usando un módulo LoRa ESP32 y un simple script de Python para ver los datos en tiempo real, además lo guarda en un archivo de Excel!",
+      "tech": ["Arduino","Python","c%2B%2B"],
+      "img": "https://github.com/tia-porota/SkySense-Mission/blob/main/images/1.png?raw=true",
+      "link": "https://github.com/tia-porota/SkySense-Mission"
+    }
+  ],
+  "en": [{
+    "title": "Serendipia (FullStack)",
+    "desc": "An app to have anonymous conversations with strangers securely, in Serendipia, no one knows who you are.Users, Groups and Messages are deleted automatically after certain time.",
+    "tech": ["react_native","node.js", "Express", "TailwindCSS", "MongoDB"],
+    "img": "https://raw.githubusercontent.com/tia-porota/serendipia/refs/heads/main/screenshots/seren1.png",
+    "link": "https://github.com/tia-porota/serendipia"
+  },{
+    "title": "MeetHub API",
+    "desc": "This API is used in our 'MeetHub' Project for NoCountry.",
+    "tech": ["Node.JS", "Express","MongoDB"],
+    "img": "https://i.ibb.co/JkmPSWV/image-1.png",
+    "link": "https://github.com/FabianVladmir/Project-NoCountry-Back"
+  },
+  {
+    "title": "Veredex",
+    "desc": "A very cool Clonedex featuring pokemon cries just a click away. Scroll through all Gen 1 Pokemon and filter them by type!",
+    "tech": ["React", "TailwindCSS"],
+    "img": "https://i.ibb.co/kh15XNr/Screenshot-20250122-172402.png",
+    "link": "https://github.com/tia-porota/veredex"
+  },
+  
+  {
+    "title": "SkySense Mission - CodeChemSat",
+    "desc": "Made for the CANSAT 2023 Argentina contest. Arduino Sender + Receiver using a LoRa ESP32 module and a simple Python script to visualize data in real time, plus it saves into an Excel file!",
+    "tech": ["Arduino","Python","c%2B%2B"],
+    "img": "https://github.com/tia-porota/SkySense-Mission/blob/main/images/1.png?raw=true",
+    "link": "https://github.com/tia-porota/SkySense-Mission"
+  }]
+}

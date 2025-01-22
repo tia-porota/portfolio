@@ -1,0 +1,116 @@
+{
+    "en": [
+      {
+        "title": "Portfolio",
+        "desc": "This Portfolio",
+        "tech": ["react","TailwindCSS"],
+        "link": "https://github.com/tia-porota/portfolio"
+      },{
+        "title": "Veredex",
+        "desc": "Simple Clonedex with sounds and cardlike UI",
+        "tech": ["react","tailwindcss"],
+        "link": "https://github.com/tia-porota/veredex"
+      },{
+        "title": "SkySense Mission",
+        "desc": "CodeChemSat Team CANSAT 2023",
+        "tech": ["arduino","python","c%2B%2B"],
+        "link": "https://github.com/tia-porota/skysense-mission"
+      },{
+        "title": "OWAS Ergonomy Calculator",
+        "desc": "Graphic OWAS Ergonomy Calculator with Godot Engine",
+        "tech": ["godotengine"],
+        "link": "https://github.com/tia-porota/owas"
+      },{
+        "title": "Serendipia (Frontend)",
+        "desc": "Serendipia App for android",
+        "tech": ["react","tailwindcss"],
+        "link": "https://github.com/tia-porota/serendipia"
+      },{
+        "title": "Serendipia (Backend)",
+        "desc": "Serendipia Backend endpoints",
+        "tech": ["node.js","express","mongodb"],
+        "link": "https://github.com/tia-porota/serendipiaBackend"
+      },{
+        "title": "CreateUsers",
+        "desc": "Simple terminal based user creator for linux",
+        "tech": ["linux","debian","gnu-bash"],
+        "link": "https://github.com/tia-porota/createUsers"
+      },
+      {
+        "title": "MeetHub API",
+        "desc": "API for MeetHub (NoCountry Project)",
+        "tech": ["node.js","express","mongodb"],
+        "link": "https://github.com/FabianVladmir/Project-NoCountry-Back"
+      },
+      
+      
+      {
+        "title": "Watermarks",
+        "desc": "Watermark creator for my business",
+        "tech": ["python"],
+        "link": "https://github.com/tia-porota/watermarks"
+      },
+      {
+        "title": "Note App (Full Stack)",
+        "desc": "(link unavailable) CRUD Test, note creator for self-organization",
+        "tech": ["javascript","css","handlebars.js","express","mongodb"],
+        "link": "https://github.com/tia-porota/"
+      }
+    ],
+    "es": [{
+      "title": "Portafolio",
+      "desc": "Este Portafolio",
+      "tech": ["react","TailwindCSS"],
+      "link": "https://github.com/tia-porota/portfolio"
+    },{
+      "title": "Veredex",
+      "desc": "Una simple Clonedex con sonidos y una interfaz de cartas",
+      "tech": ["react","tailwindcss"],
+      "link": "https://github.com/tia-porota/veredex"
+    },{
+      "title": "Misión SkySense",
+      "desc": "Equipo CodeChemSat CANSAT 2023",
+      "tech": ["arduino","python","c%2B%2B"],
+      "link": "https://github.com/tia-porota/skysense-mission"
+    },{
+      "title": "Calculadora de Ergonomía OWAS",
+      "desc": "Calculadora Gráfica de la Ergonomía OWAS con Godot Engine",
+      "tech": ["godotengine"],
+      "link": "https://github.com/tia-porota/owas"
+    },{
+      "title": "Serendipia (Frontend)",
+      "desc": "App de Serendipia para Android",
+      "tech": ["react","tailwindcss"],
+      "link": "https://github.com/tia-porota/serendipia"
+    },{
+      "title": "Serendipia (Backend)",
+      "desc": "Endpoints del Backend de Serendipia",
+      "tech": ["node.js","express","mongodb"],
+      "link": "https://github.com/tia-porota/serendipiaBackend"
+    },{
+      "title": "CreateUsers",
+      "desc": "Creador de usuarios simple basado en terminal para linux",
+      "tech": ["linux","debian","gnu-bash"],
+      "link": "https://github.com/tia-porota/createUsers"
+    },
+    {
+      "title": "MeetHub API",
+      "desc": "API para MeetHub (Proyecto de NoCountry)",
+      "tech": ["node.js","express","mongodb"],
+      "link": "https://github.com/FabianVladmir/Project-NoCountry-Back"
+    },{
+      "title": "Watermarks",
+      "desc": "Creador de marcas de agua para mi empresa",
+      "tech": ["python"],
+      "link": "https://github.com/tia-porota/watermarks"
+    },
+    
+    {
+      "title": "App de Notas (Full Stack)",
+      "desc": "(link no disponible) Test de CRUD, creador de notas para auto-organización",
+      "tech": ["javascript","css","handlebars.js","express","mongodb"],
+      "link": "https://github.com/tia-porota/"
+    }
+]
+  }
+  
